@@ -35,11 +35,14 @@ A suspicious domain was also queried.
 09:14 – External communication detected  
 
 ---
-### 5. Conclusion
-The system was compromised.
+### Conclusion
 
-Indicators:
-- Phishing email
-- Malicious PowerShell execution
-- Persistence mechanism
-- External network communication
+The system was clearly compromised.
+
+The attack followed a common phishing-based intrusion pattern:
+- Initial access via phishing email
+- Execution using PowerShell
+- Persistence via registry modification
+- Command and Control communication
+
+This indicates a high-confidence security incident requiring immediate response.
