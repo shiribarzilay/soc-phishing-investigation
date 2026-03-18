@@ -17,3 +17,14 @@ A user clicked a malicious link which triggered PowerShell activity and external
 - Threat detection
 - SOC investigation methodology
 - Understanding attacker behavior
+
+## Attack Techniques Used
+- Phishing (Initial Access)
+- PowerShell Execution
+- Persistence via Registry
+- Command & Control (C2)
+
+## Tools & Concepts
+- Log Analysis
+- Threat Detection
+- SOC Investigation Workflow
