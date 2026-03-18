@@ -1,0 +1,10 @@
+Timestamp: 2026-03-15 09:13:12
+Source IP: 10.0.0.5
+Destination IP: 45.77.12.90
+Port: 80
+Protocol: HTTP
+
+---
+
+Timestamp: 2026-03-15 09:14:01
+DNS Query: secure-paypaI-login.com
